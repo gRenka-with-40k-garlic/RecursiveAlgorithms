@@ -1,0 +1,14 @@
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangle\CreatePascalTriangle\bin\Debug\net8.0\CreatePascalTriangle.exe
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangle\CreatePascalTriangle\bin\Debug\net8.0\CreatePascalTriangle.deps.json
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangle\CreatePascalTriangle\bin\Debug\net8.0\CreatePascalTriangle.runtimeconfig.json
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangle\CreatePascalTriangle\bin\Debug\net8.0\CreatePascalTriangle.dll
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangle\CreatePascalTriangle\bin\Debug\net8.0\CreatePascalTriangle.pdb
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangle\CreatePascalTriangle\obj\Debug\net8.0\CreatePascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangle\CreatePascalTriangle\obj\Debug\net8.0\CreatePascalTriangle.AssemblyInfoInputs.cache
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangle\CreatePascalTriangle\obj\Debug\net8.0\CreatePascalTriangle.AssemblyInfo.cs
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangle\CreatePascalTriangle\obj\Debug\net8.0\CreatePascalTriangle.csproj.CoreCompileInputs.cache
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangle\CreatePascalTriangle\obj\Debug\net8.0\CreatePascalTriangle.dll
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangle\CreatePascalTriangle\obj\Debug\net8.0\refint\CreatePascalTriangle.dll
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangle\CreatePascalTriangle\obj\Debug\net8.0\CreatePascalTriangle.pdb
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangle\CreatePascalTriangle\obj\Debug\net8.0\CreatePascalTriangle.genruntimeconfig.cache
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangle\CreatePascalTriangle\obj\Debug\net8.0\ref\CreatePascalTriangle.dll

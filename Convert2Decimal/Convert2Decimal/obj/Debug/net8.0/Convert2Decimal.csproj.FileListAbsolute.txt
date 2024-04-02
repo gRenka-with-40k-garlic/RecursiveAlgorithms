@@ -1,0 +1,14 @@
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\Convert2Decimal\Convert2Decimal\bin\Debug\net8.0\Convert2Decimal.exe
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\Convert2Decimal\Convert2Decimal\bin\Debug\net8.0\Convert2Decimal.deps.json
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\Convert2Decimal\Convert2Decimal\bin\Debug\net8.0\Convert2Decimal.runtimeconfig.json
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\Convert2Decimal\Convert2Decimal\bin\Debug\net8.0\Convert2Decimal.dll
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\Convert2Decimal\Convert2Decimal\bin\Debug\net8.0\Convert2Decimal.pdb
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\Convert2Decimal\Convert2Decimal\obj\Debug\net8.0\Convert2Decimal.GeneratedMSBuildEditorConfig.editorconfig
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\Convert2Decimal\Convert2Decimal\obj\Debug\net8.0\Convert2Decimal.AssemblyInfoInputs.cache
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\Convert2Decimal\Convert2Decimal\obj\Debug\net8.0\Convert2Decimal.AssemblyInfo.cs
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\Convert2Decimal\Convert2Decimal\obj\Debug\net8.0\Convert2Decimal.csproj.CoreCompileInputs.cache
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\Convert2Decimal\Convert2Decimal\obj\Debug\net8.0\Convert2Decimal.dll
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\Convert2Decimal\Convert2Decimal\obj\Debug\net8.0\refint\Convert2Decimal.dll
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\Convert2Decimal\Convert2Decimal\obj\Debug\net8.0\Convert2Decimal.pdb
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\Convert2Decimal\Convert2Decimal\obj\Debug\net8.0\Convert2Decimal.genruntimeconfig.cache
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\Convert2Decimal\Convert2Decimal\obj\Debug\net8.0\ref\Convert2Decimal.dll

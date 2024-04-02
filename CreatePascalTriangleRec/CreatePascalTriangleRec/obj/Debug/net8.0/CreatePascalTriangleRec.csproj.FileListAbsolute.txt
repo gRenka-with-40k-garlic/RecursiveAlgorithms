@@ -1,0 +1,14 @@
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangleRec\CreatePascalTriangleRec\bin\Debug\net8.0\CreatePascalTriangleRec.exe
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangleRec\CreatePascalTriangleRec\bin\Debug\net8.0\CreatePascalTriangleRec.deps.json
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangleRec\CreatePascalTriangleRec\bin\Debug\net8.0\CreatePascalTriangleRec.runtimeconfig.json
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangleRec\CreatePascalTriangleRec\bin\Debug\net8.0\CreatePascalTriangleRec.dll
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangleRec\CreatePascalTriangleRec\bin\Debug\net8.0\CreatePascalTriangleRec.pdb
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangleRec\CreatePascalTriangleRec\obj\Debug\net8.0\CreatePascalTriangleRec.GeneratedMSBuildEditorConfig.editorconfig
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangleRec\CreatePascalTriangleRec\obj\Debug\net8.0\CreatePascalTriangleRec.AssemblyInfoInputs.cache
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangleRec\CreatePascalTriangleRec\obj\Debug\net8.0\CreatePascalTriangleRec.AssemblyInfo.cs
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangleRec\CreatePascalTriangleRec\obj\Debug\net8.0\CreatePascalTriangleRec.csproj.CoreCompileInputs.cache
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangleRec\CreatePascalTriangleRec\obj\Debug\net8.0\CreatePascalTriangleRec.dll
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangleRec\CreatePascalTriangleRec\obj\Debug\net8.0\refint\CreatePascalTriangleRec.dll
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangleRec\CreatePascalTriangleRec\obj\Debug\net8.0\CreatePascalTriangleRec.pdb
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangleRec\CreatePascalTriangleRec\obj\Debug\net8.0\CreatePascalTriangleRec.genruntimeconfig.cache
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\CreatePascalTriangleRec\CreatePascalTriangleRec\obj\Debug\net8.0\ref\CreatePascalTriangleRec.dll
